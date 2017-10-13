@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-setup(name='mini-mini-SQLAlchemy',
+setup(name='mini-SQLAlchemy',
         version='0.1.0',
         packages=['mini-SQLAlchemy', 'mini-SQLAlchemy.security', 'mini-SQLAlchemy.extensions', 'mini-SQLAlchemy.extensions.sqlalchemy'],
         install_requires=[
