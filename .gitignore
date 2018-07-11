@@ -135,3 +135,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+# Mac env
+.DS_Store/
